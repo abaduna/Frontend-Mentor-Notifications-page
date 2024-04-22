@@ -129,3 +129,12 @@ body {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+@media (min-width:780px) {
+    .main {
+        width: 730px;
+        margin: 0 auto;
+    }
+    .post{
+        font-size: 1rem;
+    }
+}
